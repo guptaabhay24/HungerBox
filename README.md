@@ -3,7 +3,8 @@
 Movie ticket booking web application with MERN stack (MongoDB, Express, React, NodeJS) & Tailwind CSS
 
 Demo: https://cinema-booking-client.vercel.app/
-
+## Admin username:"admin"
+## Admin password:"admin123"
 ## Table of Contents
 * [Project Purpose](#project-purpose)
 * [Technologies](#technologies)
